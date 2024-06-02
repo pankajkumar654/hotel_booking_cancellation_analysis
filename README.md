@@ -8,7 +8,8 @@ In the past few years, both the City Hotel and Resort Hotel have experienced sig
 3. How all hotels be assisted in making pricing and promotional decisions?  
 
 ## Suggestion/Answer
-1.when prices are higher then rate of cancellations are also higher.
+1.when prices are higher then rate of cancellations are also higher.  
 2.Hotels can give discounts on room pricing on weekends and holidays.  
-3.During the month of January, hotels can launch marketing campaigns with attractive offers to boost their revenue, especially since cancellations tend to peak during this period.
+3.During the month of January, hotels can launch marketing campaigns with attractive offers to boost their revenue,  
+    especially since cancellations tend to peak during this period.
 
